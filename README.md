@@ -1,1 +1,1 @@
-# Magic-Ball
+# Aplikacja losowych odpowiedzi:
